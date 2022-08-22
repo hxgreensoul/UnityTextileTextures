@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 47113c43f3c39a1409ce2a66f7486216
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - teleportTarget: {instanceID: 0}
+  - thePlayer: {fileID: 5241267463746980526, guid: f2e0b7ae4dae8cf44955bccd3512b213, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
